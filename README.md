@@ -2,6 +2,12 @@
 
 A local astronomical observatory that shows the sky from any place on Earth between **15,000 BCE and 5,000 CE**. It has a React/Three.js interface and a Python/FastAPI scientific service. Once set up, it runs fully offline.
 
+## Interface preview
+
+![Epoch sky simulator interface showing the observation controls, bright-star atlas, and historical playback timeline](docs/epoch-interface-preview.png)
+
+*Visual preview of Epoch's local sky-view interface.*
+
 ## Requirements
 
 | Tool | Version | Used for |
